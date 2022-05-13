@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayer</h1>
-<h3 align="center">A career-transitioning, curiosity-driven data scientist from California.</h3>
+<h3 align="center">A passionate data scientist from California.</h3>
 
 - 🔭 I’m currently working on **a real estate app with historical data and visualizations**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sayerjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayerjk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
