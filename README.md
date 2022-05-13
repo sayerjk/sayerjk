@@ -12,6 +12,9 @@
 - 📫 How to reach me **sayer.txt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sayerjk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sayerjk?trk=profile-badge">Sayer Kanakriyeh</a></div>
+              
 <p align="left">
 </p>
 
