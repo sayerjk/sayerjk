@@ -1,3 +1,5 @@
+![](https://thumbs.gfycat.com/SmallWanGiantschnauzer-mobile.mp4)
+
 <h1 align="center">Hi 👋, I'm Sayer</h1>
 <h3 align="center">A passionate data scientist from California.</h3>
 
