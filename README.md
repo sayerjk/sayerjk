@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **useful tools**
 
-- 💬 Ask me about **movies (any decade)**
+- 💬 Ask me about **top ten movies**
 
 - 📫 How to reach me **sayer.txt@gmail.com**
 
