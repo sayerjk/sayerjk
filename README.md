@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **neural network architectures**
 
-- 👯 I’m looking to collaborate on **useful tools**
+- 👯 I’m looking to collaborate on **useful tools of any kind**
 
 - 💬 Ask me about **my life as a truck driver in Hollywood 🎪**
 
