@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **useful tools of any kind**
 
-- 💬 Ask me about **my life as a truck driver in Hollywood 🎪**
+- 💬 Ask me about **Twin Peaks 🦉🌲 or my time as a truck driver in Hollywood 🎪**
 
 - 📫 How to reach me **sayer.txt@gmail.com**
 
