@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **a real estate app with historical data and visualizations**
 
-- 🌱 I’m currently learning **neural network architectures**
+- 🌱 I’m currently learning **neural network architectures and machine learning applications**
 
 - 👯 I’m looking to collaborate on **useful tools of any kind**
 
 - 💬 Ask me about **Twin Peaks 🦉🌲 or my time as a truck driver in Hollywood 🎪**
 
-- 📫 How to reach me **sayer.txt@gmail.com**
+- 📫 Contact me at **sayer.txt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
