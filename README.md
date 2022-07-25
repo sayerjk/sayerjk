@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **my time as a truck driver in Hollywood 🎪🤡**
 
+- 📖 Hobbies include collecting books, records, and art. 
+
 - 📫 Contact me at **sayer.txt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
