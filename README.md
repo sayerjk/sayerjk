@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **a real estate app with historical data and visualizations**
 
-- 🌱 I’m currently learning **neural network architectures and machine learning applications**
+- 🌱 I’m currently learning **neural network architectures** and **machine learning applications**
 
 - 🤝🏼 I’m looking to collaborate on **useful tools of any kind** ⚙
 
 - 💬 Ask me about **my time as a truck driver in Hollywood 🎪🤡**
 
-- 📖 Hobbies include photography, music, and collecting books, records, and art. 
+- 📖 Hobbies include **photography**, **music**, and **collecting books**, **records**, and **art**. 
 
 - 📫 Contact me at **sayer.txt@gmail.com**
 
