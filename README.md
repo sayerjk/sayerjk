@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a real estate app with historical data and visualizations**
 
-- 🌱 I’m currently learning **neural network architectures** and **machine learning applications**
+- 🌱 I’m currently learning **machine learning applications** and **blockchain/NFT data**
 
 - 🤝🏼 I’m looking to collaborate on **useful tools of any kind** ⚙
 
