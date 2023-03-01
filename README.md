@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Sayer</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **NFT data!** & **a real estate app with historical data and visualizations**
+- 🔭 I’m currently working on **amazing Computer Vision tech with Voia!**
 
 - 🌱 I’m currently learning about **machine learning applications** and **blockchain/NFT data**
 
