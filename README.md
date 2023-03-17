@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏼, I'm Sayer</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **amazing Computer Vision tech with Voia!**
+- 🔭 I’m currently working on **amazing computer vision tech with Voia!**
 
-- 🌱 I’m currently learning about **machine learning applications** and **blockchain/NFT data**
+- 🌱 I’m currently learning about **video and image data pipelines**
 
 - 🤝🏼 I’m looking to collaborate on **useful tools of any kind** ⚙
 
