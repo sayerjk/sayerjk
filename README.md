@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **amazing computer vision tech with Voia!**
 
-- 🌱 I’m currently learning about **video and image data pipelines**
+- 🌱 I’m currently learning about **video and image data pipelines** 📺📸
 
 - 🤝🏼 I’m looking to collaborate on **useful tools of any kind** ⚙
 
